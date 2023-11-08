@@ -20,8 +20,8 @@
 
 <!-- GitHub stats & Langs -->
 <div align="center">  
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=milletlovemouse&show_icons=true&theme=Default" alt="Anurag's GitHub stats" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milletlovemouse&layout=compact" alt="Top Langs" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=milletlovemouse&show_icons=true&theme=Default" alt="Anurag's GitHub stats" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milletlovemouse&layout=compact" alt="Top Langs" />
 </div>
 
 <!-- 贪吃蛇 -->
@@ -35,7 +35,9 @@
 <br />
 
 <!-- 访问数 -->
-![Visitor Count](https://profile-counter.glitch.me/milletlovemouse/count.svg)
+<div align="right">  
+  <img src="https://profile-counter.glitch.me/milletlovemouse/count.svg" alt="Visitor Count" />
+</div>
 
 <!--
 **milletlovemouse/milletlovemouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
