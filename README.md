@@ -1,55 +1,98 @@
-<!-- 
-![Visitor Count](https://profile-counter.glitch.me/milletlovemouse/count.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milletlovemouse&show_icons=true&theme=Default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milletlovemouse&layout=compact)
--->
-
-<!-- 打字机 -->
 <div align="center">
-  <a href="https://juejin.cn/user/1953194809760103/posts">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84Github%EF%BC%81" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=230&section=header&text=Houwx%20%7C%20milletlovemouse&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20WebRTC%20Builder%20%7C%20TypeScript%20Lover&descAlignY=58&descSize=18" alt="Profile Header" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/milletlovemouse">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=780&lines=Hi%2C+I'm+Houwx+from+Guangzhou%2C+China;Building+real-time+communication+apps+with+WebRTC;Vue+%2F+React+%2F+TypeScript+%2F+Node.js;Code+clean%2C+ship+fast%2C+learn+always" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- <p align="center">
-  <a href="https://github.com/milletlovemouse"><img src="https://img.shields.io/badge/Github-5e5e5e?logo=github" alt="github"></a>
-  <a href="https://www.yuque.com/limyoona90"><img src="https://img.shields.io/badge/语雀-31c553?logo=data:image/png;base64,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" alt="语雀"></a>
-  <a href="https://juejin.cn/user/1953194809760103/posts"><img src="https://img.shields.io/badge/掘金-fff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAByFBMVEUAAAAegP8fgP8egf8eev8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP////9x6/jYAAAAlnRSTlMAAAAAAAZdWwUQhvTzhA8lq/ypJHH5C3PsBAJO2dghl2AqYZg7yBGIe/itJq96CGrozkMBRdDnaQwDaAfPN7ZwCfaUlnK3OGPeGP4Z8rww4+JeMr3xWt/aUjzHU9tYw+55IKSiHw3vwjYdn/qhCh6eHHfEOsbtdVDg4ddPL7qDhbkuF/cjrJMWbOnR0mtGKLD9JxKK9Ym9ME1eAAAAAWJLR0SX5m4brwAAAAd0SU1FB+UGEgMGHcgXPyMAAAHTSURBVDjLrVNpV1JRFH1bk55AISFPAVEQQXEgFTWQVDBDUsws5yErc8rU5tGZyjFNsvt7PfcBLizAtVqeD3fdu+9+5+6z3zmCcMkBioz3OYqrIjJ8nqtUqa9dT5cE0ORpGdPe0KVhAPl6RqHPT0uQCgoZKyyQUhAAgxECjKYis0neGM6TgOISC8kHrFa6gVhqK05mAGV2plY6YhjgKFcxe1kSA8YKJ8mv1HAMqKqmYpw1xuQUrpu1pL+u3g24Gxpp23TLhUR6j5dejcPNPp9MvU1UAQYPF9TS2uZHInGg/U4g8Rj8HXeDEDpDzFlyj/8kLo11dbGYXKDb5mShTqE8TGjPfbk4Sy938kGfXPDDR8TtVwriwCCBQ8NcCEbsjI3y+uAdGyc4NCEKyGp5TNvJJx5kA0+fTT3n6acrZgicnYvVPf9igbGFl/P8Rlrk69IUIfrlV3GvIL2eJP6b4JW4k2/f0fH9B+nMKXg/mgn6JHcTRMVnOnz5es5JrKyS5vBaLnXVuprq2tj8+3dutUfIobxvuu/kV+TH9j89AdfOLmXe26el9sCVoqfg/rnH5GhscKfsOeDw6Bc9U32cvq2jv09Uf6IZZocGR5GTebQuGL3/iVNGTHdSXGp/KgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNi0xOFQwMzowNjoyOSswMDowMBW0AwoAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDYtMThUMDM6MDY6MjkrMDA6MDBk6bu2AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC" alt="掘金"></a>
-  <a href="https://blog.csdn.net/qq_43812821"><img src="https://img.shields.io/badge/CSDN-fc5531" alt="csdn"></a>
-</p> -->
-
-<!-- GitHub stats & Langs -->
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milletlovemouse&theme=vue" alt="milletlovemouse's GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milletlovemouse&theme=vue" alt="Top Languages" />
+  <a href="https://github.com/milletlovemouse"><img src="https://img.shields.io/badge/GitHub-milletlovemouse-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://juejin.cn/user/1953194809760103/posts"><img src="https://img.shields.io/badge/Juejin-%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0-1E80FF?style=for-the-badge&logo=juejin" alt="Juejin" /></a>
+  <a href="https://rtcchatroom.cn"><img src="https://img.shields.io/badge/Live_Demo-rtcchatroom.cn-00C9A7?style=for-the-badge&logo=webrtc" alt="Live Demo" /></a>
+  <img src="https://komarev.com/ghpvc/?username=milletlovemouse&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- 贪吃蛇 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milletlovemouse/milletlovemouse/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milletlovemouse/milletlovemouse/output/profile-snake-contrib/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/milletlovemouse/milletlovemouse/output/profile-snake-contrib/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 <br />
 
-<!-- 总访问量 -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=milletlovemouse&label=Total%20Profile%20Views&color=0e75b6&style=flat" alt="Total Profile Views" />
+## About Me
+
+<img align="right" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milletlovemouse&layout=compact&hide_border=true&theme=vue-dark&border_radius=12" alt="Top Languages" />
+
+- I am `Houwx`, a developer based in Guangzhou, China.
+- I focus on frontend engineering, real-time interaction, and reusable developer tools.
+- My recent public projects center around `WebRTC`, `Socket.IO`, `TypeScript`, `Vue 3`, `React`, and `Node.js`.
+- I like turning practical ideas into usable products, then extracting shared SDKs and services from them.
+- Motto: `Build clearly. Communicate instantly. Keep improving.`
+
+<br clear="right" />
+
+## Focus Areas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,vite,webpack,pnpm,html,css,sass,tailwind,express,git,github,vscode&perline=8" alt="Tech Stack" />
 </p>
 
-<!--
-**milletlovemouse/milletlovemouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/WebRTC-Real--time%20Communication-00C9A7?style=flat-square" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Socket.IO-Signaling%20%26%20Messaging-010101?style=flat-square&logo=socketdotio" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/TypeScript-Type--safe%20Frontend-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue%203-Progressive%20UI-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/React-Component%20Apps-61DAFB?style=flat-square&logo=react&logoColor=111" alt="React" />
+</p>
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/milletlovemouse/rtc-chatroom">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=rtc-chatroom&theme=vue-dark&hide_border=true&border_radius=12" alt="rtc-chatroom" />
+  </a>
+  <a href="https://github.com/milletlovemouse/chatroom">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=chatroom&theme=vue-dark&hide_border=true&border_radius=12" alt="chatroom" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/milletlovemouse/chatroom-server">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=chatroom-server&theme=vue-dark&hide_border=true&border_radius=12" alt="chatroom-server" />
+  </a>
+  <a href="https://github.com/milletlovemouse/rtc-client">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=rtc-client&theme=vue-dark&hide_border=true&border_radius=12" alt="rtc-client" />
+  </a>
+</p>
+
+## Project Highlights
+
+- `rtc-chatroom`: Vue 3 + TypeScript + Vite multi-person video chat room, built on WebRTC and Socket.IO.
+- `chatroom`: React + TypeScript implementation of a real-time video chat room with WebRTC signaling flow.
+- `chatroom-server`: lightweight Node.js / Express / Socket.IO server for frontend practice and chatroom signaling.
+- `rtc-client`: browser WebRTC SDK wrapper for building video call applications, published to npm as `@houwx/rtc-client`.
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=milletlovemouse&show_icons=true&hide_border=true&theme=vue-dark&border_radius=12&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=milletlovemouse&theme=vue-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milletlovemouse&theme=vue" alt="Profile Details" />
+</p>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milletlovemouse/milletlovemouse/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milletlovemouse/milletlovemouse/output/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/milletlovemouse/milletlovemouse/output/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" alt="Profile Footer" />
+</div>
