@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milletlovemouse&theme=vue" alt="Top Languages" />
+<img align="right" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milletlovemouse&theme=vue" alt="GitHub Stats" />
 
 - I am `Houwx`, a developer based in Guangzhou, China.
 - I focus on frontend engineering, real-time interaction, and reusable developer tools.
@@ -69,17 +69,6 @@
 - `chatroom`: React + TypeScript implementation of a real-time video chat room with WebRTC signaling flow.
 - `chatroom-server`: lightweight Node.js / Express / Socket.IO server for frontend practice and chatroom signaling.
 - `rtc-client`: browser WebRTC SDK wrapper for building video call applications, published to npm as `@houwx/rtc-client`.
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milletlovemouse&theme=vue" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=milletlovemouse&theme=vue-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milletlovemouse&theme=vue" alt="Profile Details" />
-</p>
 
 ## Contribution Snake
 
