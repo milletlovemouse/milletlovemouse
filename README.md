@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milletlovemouse&layout=compact&hide_border=true&theme=vue-dark&border_radius=12" alt="Top Languages" />
+<img align="right" width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milletlovemouse&theme=vue" alt="Top Languages" />
 
 - I am `Houwx`, a developer based in Guangzhou, China.
 - I focus on frontend engineering, real-time interaction, and reusable developer tools.
@@ -47,19 +47,19 @@
 
 <p align="center">
   <a href="https://github.com/milletlovemouse/rtc-chatroom">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=rtc-chatroom&theme=vue-dark&hide_border=true&border_radius=12" alt="rtc-chatroom" />
+    <img src="https://img.shields.io/badge/rtc--chatroom-Vue%203%20%2B%20TypeScript%20%2B%20Vite%20%2B%20WebRTC%20%2B%20Socket.IO-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="rtc-chatroom" />
   </a>
   <a href="https://github.com/milletlovemouse/chatroom">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=chatroom&theme=vue-dark&hide_border=true&border_radius=12" alt="chatroom" />
+    <img src="https://img.shields.io/badge/chatroom-React%20%2B%20TypeScript%20%2B%20Webpack%205%20%2B%20WebRTC%20%2B%20Socket.IO-61DAFB?style=for-the-badge&logo=react&logoColor=111" alt="chatroom" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/milletlovemouse/chatroom-server">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=chatroom-server&theme=vue-dark&hide_border=true&border_radius=12" alt="chatroom-server" />
+    <img src="https://img.shields.io/badge/chatroom--server-Node.js%20%2B%20Express%20%2B%20Socket.IO-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="chatroom-server" />
   </a>
   <a href="https://github.com/milletlovemouse/rtc-client">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=milletlovemouse&repo=rtc-client&theme=vue-dark&hide_border=true&border_radius=12" alt="rtc-client" />
+    <img src="https://img.shields.io/badge/rtc--client-TypeScript%20%2B%20WebRTC%20SDK%20%2B%20npm-00C9A7?style=for-the-badge&logo=npm&logoColor=white" alt="rtc-client" />
   </a>
 </p>
 
@@ -73,8 +73,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=milletlovemouse&show_icons=true&hide_border=true&theme=vue-dark&border_radius=12&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=milletlovemouse&theme=vue-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milletlovemouse&theme=vue" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milletlovemouse&theme=vue&utcOffset=8" alt="Productive Time" />
 </p>
 
 <p align="center">
