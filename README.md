@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milletlovemouse&theme=vue" alt="Top Languages" />
+<img align="right" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milletlovemouse&theme=vue" alt="Top Languages" />
 
 - I am `Houwx`, a developer based in Guangzhou, China.
 - I focus on frontend engineering, real-time interaction, and reusable developer tools.
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milletlovemouse&theme=vue" alt="Profile Details" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milletlovemouse&theme=vue" alt="Profile Details" />
 </p>
 
 ## Contribution Snake
