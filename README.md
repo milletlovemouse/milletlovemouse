@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/English-0F2027?style=for-the-badge&logo=github&logoColor=white&labelColor=00C9A7" alt="English" /></a>
+  <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-0F2027?style=for-the-badge&logo=github&logoColor=white&labelColor=2C5364" alt="中文" /></a>
+</div>
+
+<div align="center">
   <a href="https://github.com/milletlovemouse">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=780&lines=Hi%2C+I'm+Houwx+from+Guangzhou%2C+China;Building+real-time+communication+apps+with+WebRTC;Vue+%2F+React+%2F+TypeScript+%2F+Node.js;Code+clean%2C+ship+fast%2C+learn+always" alt="Typing SVG" />
   </a>
