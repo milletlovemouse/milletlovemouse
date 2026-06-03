@@ -74,7 +74,7 @@
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milletlovemouse&theme=vue" alt="GitHub Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milletlovemouse&theme=vue&utcOffset=8" alt="Productive Time" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=milletlovemouse&theme=vue-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </p>
 
 <p align="center">
